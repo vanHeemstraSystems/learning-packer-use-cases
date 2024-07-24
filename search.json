@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nLearning Packer - Use Cases"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Learning Packer - Use-Cases",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\nMaster Packer\n\n\n\n\n\nflowchart LR\n  A[Learner] --&gt; B(UC: Master A)\n  A[Learner] --&gt; C(UC: Master B)\n  A[Learner] --&gt; D(UC: Master C)\n  A[Learner] --&gt; E(UC: Master D)  \n  B --&gt; F{Abstract UC: Master Packer}\n  C --&gt; F{Abstract UC: Master Packer}\n  D --&gt; F{Abstract UC: Master Packer}\n  E --&gt; F{Abstract UC: Master Packer}"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "a.html",
+    "href": "a.html",
+    "title": "A",
+    "section": "",
+    "text": "About this site"
+  }
+]
